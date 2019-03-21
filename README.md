@@ -1,4 +1,4 @@
-# DarkSync
+# DarkSync ![License](https://img.shields.io/apm/l/vim-mode.svg?color=orange) ![Language](https://img.shields.io/github/languages/top/nbabra/DarkSync.svg?color=blue)
 Synchronized dark theme for macos
 
 ##
