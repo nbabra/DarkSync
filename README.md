@@ -9,6 +9,9 @@ Run the application bundle called DarkSync, not the script file.
 
 In System Preferences, click on Users and Groups, and then Login Items, and add Dark Sync as a login item for constant monitoring.
 
+![](./img/tutorial.gif)
+
+Demo:
 ![](./img/demo.gif)
 
 # Known Issues
