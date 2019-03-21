@@ -4,6 +4,16 @@ Synchronized dark theme for macos
 ##
 
 # Usage 
-Download and put in /usr/bin
 Allow location services for getting sunset and sunrise times in current location. 
-Script will run in the background, updating dark theme when necessary.
+Run the application bundle called DarkSync, not the script file. 
+
+In System Preferences, click on Users and Groups, and then Login Items, and add Dark Sync as a login item for constant monitoring.
+
+![](./img/demo.gif)
+
+# Known Issues
+LocateMe can prevent the script from working properly due to wifi issues and geolocation, resetting wifi will fix it. 
+
+# Authors
+Navneeth Babra
+
