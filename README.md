@@ -11,7 +11,7 @@ In System Preferences, click on Users and Groups, and then Login Items, and add 
 
 ![](./img/tutorial.gif)
 
-Demo:
+# Demo:
 
 ![](./img/demo.gif)
 
