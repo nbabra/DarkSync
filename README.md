@@ -11,11 +11,14 @@ In System Preferences, click on Users and Groups, and then Login Items, and add 
 
 ![](./img/tutorial.gif)
 
-Demo:
+# Demo:
+
 ![](./img/demo.gif)
 
 # Known Issues
-LocateMe can prevent the script from working properly due to wifi issues and geolocation, resetting wifi will fix it. 
+* Transition between dark and light mode isn't very smooth
+* LocateMe can prevent the script from working properly due to wifi issues and geolocation, resetting wifi will fix it
+* Sometimes the app will not quit, but going to Activity Monitor and forcing quitting works for now
 
 # Authors
 Navneeth Babra
