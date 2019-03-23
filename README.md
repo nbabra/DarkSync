@@ -16,9 +16,9 @@ In System Preferences, click on Users and Groups, and then Login Items, and add 
 ![](./img/demo.gif)
 
 # Known Issues
-* Transition between dark and light mode isn't very smooth
 * LocateMe can prevent the script from working properly due to wifi issues and geolocation, resetting wifi will fix it
 * Sometimes the app will not quit, but going to Activity Monitor and forcing quitting works for now
+* Since time is on GMT, there are some issues with it changing immediately during sunset on EST.
 
 # Authors
 Navneeth Babra
