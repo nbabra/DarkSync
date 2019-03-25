@@ -3,6 +3,11 @@ Synchronized dark theme for macos
 
 ##
 
+# Installation and Quickstart
+1. Download repo: `git clone https://github.com/nbabra/DarkSync`
+2. Go into local folder: `cd DarkSync`
+3. Run: `open -a DarkSync`
+
 # Usage 
 Allow location services for getting sunset and sunrise times in current location. 
 Run the application bundle called DarkSync, not the script file. 
