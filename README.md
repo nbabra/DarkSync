@@ -21,7 +21,7 @@ In System Preferences, click on Users and Groups, then Login Items, and add Dark
 Also in System Preferences, click on Security and Privacy, then Accesibility, and add Dark Sync to control the System Events. This can prevent errors from System Events in the future.
 
 <p align="center">
-  <img src="./img/tutorial-2.gif" width="640" height="400" />
+  <img src="./img/tutorial-2.gif" width="600" height="400" />
 </p>
 
 # Demo:
