@@ -15,7 +15,7 @@ Run the application bundle called DarkSync, not the script file.
 In System Preferences, click on Users and Groups, then Login Items, and add Dark Sync as a login item for constant monitoring. 
 
 <p align="center">
-  <img src="./img/tutorial.gif" width="640" height="400" />
+  <img src="./img/tutorial.gif" width="600" height="400" />
 </p>
 
 Also in System Preferences, click on Security and Privacy, then Accesibility, and add Dark Sync to control the System Events. This can prevent errors from System Events in the future.
