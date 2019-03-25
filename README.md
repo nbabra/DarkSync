@@ -4,7 +4,7 @@ Synchronized dark theme for macos
 ##
 
 # Installation and Quickstart
-1. Download repo: `cd Documents` `git clone https://github.com/nbabra/DarkSync Dark-Sync`
+1. Download repo: `git clone https://github.com/nbabra/DarkSync Dark-Sync`
 2. Go into local folder: `cd Dark-Sync`
 3. Run: `open -a DarkSync`
 
