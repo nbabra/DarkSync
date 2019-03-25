@@ -7,9 +7,11 @@ Synchronized dark theme for macos
 Allow location services for getting sunset and sunrise times in current location. 
 Run the application bundle called DarkSync, not the script file. 
 
-In System Preferences, click on Users and Groups, and then Login Items, and add Dark Sync as a login item for constant monitoring.
+In System Preferences, click on Users and Groups, then Login Items, and add Dark Sync as a login item for constant monitoring. Also in System Preferences, click on Security and Privacy, then Accesibility, and add Dark Sync to control the System Events. This can prevent errors from System Events in the future.
 
 ![](./img/tutorial.gif)
+
+![](./img/tutorial-2.gif)
 
 # Demo:
 
